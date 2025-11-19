@@ -166,26 +166,14 @@
 단, 검사 대상인 질병의 유병률(사전 확률, 기존 사건들의 확률)을 알고 있어야 한다.  
 전세계 인구 중 10%의 사람들이 질병 A를 앓는다고 가정한다.
 
-<div style="width: 60%; display:flex; margin-top: -20px; margin-left:30px">
-    <div>
-      <img width="300" alt="bayesian_inference01" src="https://github.com/user-attachments/assets/3481f1b0-7fed-4556-b0c0-2c5acc416b61" />
-    </div>
-    <div style="margin-top: 28px; margin-left: 20px">
-      <img width="309" alt="bayesian_inference02" src="https://github.com/user-attachments/assets/a407facb-416b-472e-8f39-b75232a42647" />
-    </div>
-</div>  
-
-<div style="width: 60%; display:flex; margin-left:30px">
-    <div>
-      <img width="475" alt="bayesian_inference03" src="https://github.com/user-attachments/assets/1dbd0879-7188-4dfe-a603-0f1272c77cb8" />
-    </div>
-    <div style="margin-top: 28px; margin-left: 20px">
-      <img width="384" alt="bayesian_inference04" src="https://github.com/user-attachments/assets/8d2c7593-4d9a-4ecf-9fef-0e5c2571286f" />
-    </div>
-</div>  
+<img width="300" alt="bayesian_inference01" src="https://github.com/user-attachments/assets/3481f1b0-7fed-4556-b0c0-2c5acc416b61" />
+<img width="309" alt="bayesian_inference02" src="https://github.com/user-attachments/assets/a407facb-416b-472e-8f39-b75232a42647" />
+<img width="475" alt="bayesian_inference03" src="https://github.com/user-attachments/assets/1dbd0879-7188-4dfe-a603-0f1272c77cb8" />
+<img width="384" alt="bayesian_inference04" src="https://github.com/user-attachments/assets/8d2c7593-4d9a-4ecf-9fef-0e5c2571286f" />
 
 > 🚩결과: 약 30.8%
-<img width="284" height="42" alt="bayesian_inference05" src="https://github.com/user-attachments/assets/9c174064-7bbc-4240-979d-8c5046f7a548" />
+> 
+> <img width="284" height="42" alt="bayesian_inference05" src="https://github.com/user-attachments/assets/9c174064-7bbc-4240-979d-8c5046f7a548" />
 
 ### 나이브 베이즈 분류 (Naive Bayes Classifier)
 - 텍스트 분류를 위해 전통적으로 사용되는 분류기로서, 분류에 있어서 준수한 성능을 보인다.
